@@ -1,3 +1,23 @@
+# PE01: Hello World
+
+## Input
+
+The application does not require any input from the user. It displays predefined information including my name, degree program, and school name when the application starts.
+
+## Process
+
+The React Native application uses one View component to hold three Text components. A StyleSheet is used to center the text both vertically and horizontally while applying a yellow background and bold font styling.
+
+## Output
+
+The application displays my name, degree program, and university name in the center of the screen with a yellow background. The app runs successfully on Expo Go without any errors.
+
+-----------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
